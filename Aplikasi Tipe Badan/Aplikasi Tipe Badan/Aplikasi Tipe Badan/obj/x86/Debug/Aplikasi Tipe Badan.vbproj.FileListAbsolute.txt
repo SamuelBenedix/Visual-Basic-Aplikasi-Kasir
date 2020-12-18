@@ -1,0 +1,11 @@
+E:\Tugas Visual Basic\Aplikasi Tipe Badan\Aplikasi Tipe Badan\Aplikasi Tipe Badan\bin\Debug\Aplikasi Tipe Badan.exe.config
+E:\Tugas Visual Basic\Aplikasi Tipe Badan\Aplikasi Tipe Badan\Aplikasi Tipe Badan\bin\Debug\Aplikasi Tipe Badan.exe
+E:\Tugas Visual Basic\Aplikasi Tipe Badan\Aplikasi Tipe Badan\Aplikasi Tipe Badan\bin\Debug\Aplikasi Tipe Badan.pdb
+E:\Tugas Visual Basic\Aplikasi Tipe Badan\Aplikasi Tipe Badan\Aplikasi Tipe Badan\bin\Debug\Aplikasi Tipe Badan.xml
+E:\Tugas Visual Basic\Aplikasi Tipe Badan\Aplikasi Tipe Badan\Aplikasi Tipe Badan\obj\x86\Debug\Aplikasi_Tipe_Badan.Form1.resources
+E:\Tugas Visual Basic\Aplikasi Tipe Badan\Aplikasi Tipe Badan\Aplikasi Tipe Badan\obj\x86\Debug\Aplikasi_Tipe_Badan.Resources.resources
+E:\Tugas Visual Basic\Aplikasi Tipe Badan\Aplikasi Tipe Badan\Aplikasi Tipe Badan\obj\x86\Debug\Aplikasi Tipe Badan.vbproj.GenerateResource.Cache
+E:\Tugas Visual Basic\Aplikasi Tipe Badan\Aplikasi Tipe Badan\Aplikasi Tipe Badan\obj\x86\Debug\Aplikasi Tipe Badan.exe
+E:\Tugas Visual Basic\Aplikasi Tipe Badan\Aplikasi Tipe Badan\Aplikasi Tipe Badan\obj\x86\Debug\Aplikasi Tipe Badan.xml
+E:\Tugas Visual Basic\Aplikasi Tipe Badan\Aplikasi Tipe Badan\Aplikasi Tipe Badan\obj\x86\Debug\Aplikasi Tipe Badan.pdb
+E:\Tugas Visual Basic\Aplikasi Tipe Badan\Aplikasi Tipe Badan\Aplikasi Tipe Badan\bin\Debug\DB_Beratideal.mdb

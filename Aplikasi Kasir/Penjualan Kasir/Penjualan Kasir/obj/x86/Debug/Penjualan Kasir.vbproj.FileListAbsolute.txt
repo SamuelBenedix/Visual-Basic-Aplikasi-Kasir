@@ -1,0 +1,20 @@
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Penjualan Kasir\bin\Debug\Penjualan Kasir.exe
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Penjualan Kasir\bin\Debug\Penjualan Kasir.pdb
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Penjualan Kasir\bin\Debug\Penjualan Kasir.xml
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Penjualan Kasir\obj\x86\Debug\Penjualan_Kasir.Form1.resources
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Penjualan Kasir\obj\x86\Debug\Penjualan_Kasir.Resources.resources
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Penjualan Kasir\obj\x86\Debug\Penjualan Kasir.vbproj.GenerateResource.Cache
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Penjualan Kasir\obj\x86\Debug\Penjualan Kasir.exe
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Penjualan Kasir\obj\x86\Debug\Penjualan Kasir.xml
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Penjualan Kasir\obj\x86\Debug\Penjualan Kasir.pdb
+E:\Tugas Visual Basic\Aplikasi Kasir\Penjualan Kasir\Penjualan Kasir\obj\x86\Debug\Penjualan Kasir.exe
+E:\Tugas Visual Basic\Aplikasi Kasir\Penjualan Kasir\Penjualan Kasir\obj\x86\Debug\Penjualan Kasir.xml
+E:\Tugas Visual Basic\Aplikasi Kasir\Penjualan Kasir\Penjualan Kasir\obj\x86\Debug\Penjualan Kasir.pdb
+E:\Tugas Visual Basic\Aplikasi Kasir\Penjualan Kasir\Penjualan Kasir\bin\Debug\Penjualan Kasir.exe
+E:\Tugas Visual Basic\Aplikasi Kasir\Penjualan Kasir\Penjualan Kasir\bin\Debug\Penjualan Kasir.pdb
+E:\Tugas Visual Basic\Aplikasi Kasir\Penjualan Kasir\Penjualan Kasir\bin\Debug\Penjualan Kasir.xml
+E:\Tugas Visual Basic\Aplikasi Kasir\Penjualan Kasir\Penjualan Kasir\obj\x86\Debug\Penjualan_Kasir.Form1.resources
+E:\Tugas Visual Basic\Aplikasi Kasir\Penjualan Kasir\Penjualan Kasir\obj\x86\Debug\Penjualan_Kasir.Resources.resources
+E:\Tugas Visual Basic\Aplikasi Kasir\Penjualan Kasir\Penjualan Kasir\obj\x86\Debug\Penjualan Kasir.vbproj.GenerateResource.Cache
+E:\Tugas Visual Basic\Aplikasi Kasir\Penjualan Kasir\Penjualan Kasir\bin\Debug\DB_Kasir.mdb
+E:\Tugas Visual Basic\Aplikasi Kasir\Penjualan Kasir\Penjualan Kasir\bin\Debug\Penjualan Kasir.exe.config

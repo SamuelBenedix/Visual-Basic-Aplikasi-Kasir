@@ -1,0 +1,20 @@
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Pembelian Mineral\bin\Debug\Aplikasi Pembelian Mineral.exe
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Pembelian Mineral\bin\Debug\Aplikasi Pembelian Mineral.pdb
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Pembelian Mineral\bin\Debug\Aplikasi Pembelian Mineral.xml
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Pembelian Mineral\obj\x86\Debug\Aplikasi_Pembelian_Mineral.Form1.resources
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Pembelian Mineral\obj\x86\Debug\Aplikasi_Pembelian_Mineral.Resources.resources
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Pembelian Mineral\obj\x86\Debug\Aplikasi Pembelian Mineral.vbproj.GenerateResource.Cache
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Pembelian Mineral\obj\x86\Debug\Aplikasi Pembelian Mineral.exe
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Pembelian Mineral\obj\x86\Debug\Aplikasi Pembelian Mineral.xml
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Pembelian Mineral\obj\x86\Debug\Aplikasi Pembelian Mineral.pdb
+E:\Tugas Visual Basic\Aplikasi Penjualan Air Mineral\Aplikasi Pembelian Mineral\Aplikasi Pembelian Mineral\obj\x86\Debug\Aplikasi Pembelian Mineral.exe
+E:\Tugas Visual Basic\Aplikasi Penjualan Air Mineral\Aplikasi Pembelian Mineral\Aplikasi Pembelian Mineral\obj\x86\Debug\Aplikasi Pembelian Mineral.xml
+E:\Tugas Visual Basic\Aplikasi Penjualan Air Mineral\Aplikasi Pembelian Mineral\Aplikasi Pembelian Mineral\obj\x86\Debug\Aplikasi Pembelian Mineral.pdb
+E:\Tugas Visual Basic\Aplikasi Penjualan Air Mineral\Aplikasi Pembelian Mineral\Aplikasi Pembelian Mineral\bin\Debug\PenjualanAirMineral.mdb
+E:\Tugas Visual Basic\Aplikasi Penjualan Air Mineral\Aplikasi Pembelian Mineral\Aplikasi Pembelian Mineral\bin\Debug\Aplikasi Pembelian Mineral.exe.config
+E:\Tugas Visual Basic\Aplikasi Penjualan Air Mineral\Aplikasi Pembelian Mineral\Aplikasi Pembelian Mineral\bin\Debug\Aplikasi Pembelian Mineral.exe
+E:\Tugas Visual Basic\Aplikasi Penjualan Air Mineral\Aplikasi Pembelian Mineral\Aplikasi Pembelian Mineral\bin\Debug\Aplikasi Pembelian Mineral.pdb
+E:\Tugas Visual Basic\Aplikasi Penjualan Air Mineral\Aplikasi Pembelian Mineral\Aplikasi Pembelian Mineral\bin\Debug\Aplikasi Pembelian Mineral.xml
+E:\Tugas Visual Basic\Aplikasi Penjualan Air Mineral\Aplikasi Pembelian Mineral\Aplikasi Pembelian Mineral\obj\x86\Debug\Aplikasi_Pembelian_Mineral.Form1.resources
+E:\Tugas Visual Basic\Aplikasi Penjualan Air Mineral\Aplikasi Pembelian Mineral\Aplikasi Pembelian Mineral\obj\x86\Debug\Aplikasi_Pembelian_Mineral.Resources.resources
+E:\Tugas Visual Basic\Aplikasi Penjualan Air Mineral\Aplikasi Pembelian Mineral\Aplikasi Pembelian Mineral\obj\x86\Debug\Aplikasi Pembelian Mineral.vbproj.GenerateResource.Cache

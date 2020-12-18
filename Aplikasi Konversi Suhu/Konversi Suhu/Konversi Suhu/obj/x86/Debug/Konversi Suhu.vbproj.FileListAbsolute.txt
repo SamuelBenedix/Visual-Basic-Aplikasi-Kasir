@@ -1,0 +1,20 @@
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Konversi Suhu\bin\Debug\Konversi Suhu.exe
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Konversi Suhu\bin\Debug\Konversi Suhu.pdb
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Konversi Suhu\bin\Debug\Konversi Suhu.xml
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Konversi Suhu\obj\x86\Debug\Konversi_Suhu.Form1.resources
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Konversi Suhu\obj\x86\Debug\Konversi_Suhu.Resources.resources
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Konversi Suhu\obj\x86\Debug\Konversi Suhu.vbproj.GenerateResource.Cache
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Konversi Suhu\obj\x86\Debug\Konversi Suhu.exe
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Konversi Suhu\obj\x86\Debug\Konversi Suhu.xml
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Konversi Suhu\obj\x86\Debug\Konversi Suhu.pdb
+E:\Tugas Visual Basic\Aplikasi Konversi Suhu\Konversi Suhu\Konversi Suhu\obj\x86\Debug\Konversi Suhu.exe
+E:\Tugas Visual Basic\Aplikasi Konversi Suhu\Konversi Suhu\Konversi Suhu\obj\x86\Debug\Konversi Suhu.xml
+E:\Tugas Visual Basic\Aplikasi Konversi Suhu\Konversi Suhu\Konversi Suhu\obj\x86\Debug\Konversi Suhu.pdb
+E:\Tugas Visual Basic\Aplikasi Konversi Suhu\Konversi Suhu\Konversi Suhu\bin\Debug\Konversi Suhu.exe
+E:\Tugas Visual Basic\Aplikasi Konversi Suhu\Konversi Suhu\Konversi Suhu\bin\Debug\Konversi Suhu.pdb
+E:\Tugas Visual Basic\Aplikasi Konversi Suhu\Konversi Suhu\Konversi Suhu\bin\Debug\Konversi Suhu.xml
+E:\Tugas Visual Basic\Aplikasi Konversi Suhu\Konversi Suhu\Konversi Suhu\obj\x86\Debug\Konversi_Suhu.Form1.resources
+E:\Tugas Visual Basic\Aplikasi Konversi Suhu\Konversi Suhu\Konversi Suhu\obj\x86\Debug\Konversi_Suhu.Resources.resources
+E:\Tugas Visual Basic\Aplikasi Konversi Suhu\Konversi Suhu\Konversi Suhu\obj\x86\Debug\Konversi Suhu.vbproj.GenerateResource.Cache
+E:\Tugas Visual Basic\Aplikasi Konversi Suhu\Konversi Suhu\Konversi Suhu\bin\Debug\KonversiSuhu.mdb
+E:\Tugas Visual Basic\Aplikasi Konversi Suhu\Konversi Suhu\Konversi Suhu\bin\Debug\Konversi Suhu.exe.config

@@ -1,0 +1,18 @@
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\Tugas Visual Basic\Penyewaan Lapangan\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+E:\Tugas Visual Basic\Penyewaan Lapangan\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+E:\Tugas Visual Basic\Penyewaan Lapangan\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\Tugas Visual Basic\Penyewaan Lapangan\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\Tugas Visual Basic\Penyewaan Lapangan\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\Tugas Visual Basic\Penyewaan Lapangan\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\Tugas Visual Basic\Penyewaan Lapangan\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+E:\Tugas Visual Basic\Penyewaan Lapangan\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+E:\Tugas Visual Basic\Penyewaan Lapangan\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache

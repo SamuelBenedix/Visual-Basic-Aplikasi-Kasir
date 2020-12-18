@@ -1,0 +1,20 @@
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Parkir\bin\Debug\Aplikasi Parkir.exe
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Parkir\bin\Debug\Aplikasi Parkir.pdb
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Parkir\bin\Debug\Aplikasi Parkir.xml
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Parkir\obj\x86\Debug\Aplikasi_Parkir.Form1.resources
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Parkir\obj\x86\Debug\Aplikasi_Parkir.Resources.resources
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Parkir\obj\x86\Debug\Aplikasi Parkir.vbproj.GenerateResource.Cache
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Parkir\obj\x86\Debug\Aplikasi Parkir.exe
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Parkir\obj\x86\Debug\Aplikasi Parkir.xml
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Parkir\obj\x86\Debug\Aplikasi Parkir.pdb
+E:\Tugas Visual Basic\Aplikasi Parkir\Aplikasi Parkir\Aplikasi Parkir\obj\x86\Debug\Aplikasi Parkir.exe
+E:\Tugas Visual Basic\Aplikasi Parkir\Aplikasi Parkir\Aplikasi Parkir\obj\x86\Debug\Aplikasi Parkir.xml
+E:\Tugas Visual Basic\Aplikasi Parkir\Aplikasi Parkir\Aplikasi Parkir\obj\x86\Debug\Aplikasi Parkir.pdb
+E:\Tugas Visual Basic\Aplikasi Parkir\Aplikasi Parkir\Aplikasi Parkir\bin\Debug\PenghitungParkir.mdb
+E:\Tugas Visual Basic\Aplikasi Parkir\Aplikasi Parkir\Aplikasi Parkir\bin\Debug\Aplikasi Parkir.exe.config
+E:\Tugas Visual Basic\Aplikasi Parkir\Aplikasi Parkir\Aplikasi Parkir\bin\Debug\Aplikasi Parkir.exe
+E:\Tugas Visual Basic\Aplikasi Parkir\Aplikasi Parkir\Aplikasi Parkir\bin\Debug\Aplikasi Parkir.pdb
+E:\Tugas Visual Basic\Aplikasi Parkir\Aplikasi Parkir\Aplikasi Parkir\bin\Debug\Aplikasi Parkir.xml
+E:\Tugas Visual Basic\Aplikasi Parkir\Aplikasi Parkir\Aplikasi Parkir\obj\x86\Debug\Aplikasi_Parkir.Form1.resources
+E:\Tugas Visual Basic\Aplikasi Parkir\Aplikasi Parkir\Aplikasi Parkir\obj\x86\Debug\Aplikasi_Parkir.Resources.resources
+E:\Tugas Visual Basic\Aplikasi Parkir\Aplikasi Parkir\Aplikasi Parkir\obj\x86\Debug\Aplikasi Parkir.vbproj.GenerateResource.Cache

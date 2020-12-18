@@ -1,0 +1,20 @@
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Penjualan Tiker Bioskop\bin\Debug\Aplikasi Penjualan Tiker Bioskop.exe
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Penjualan Tiker Bioskop\bin\Debug\Aplikasi Penjualan Tiker Bioskop.pdb
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Penjualan Tiker Bioskop\bin\Debug\Aplikasi Penjualan Tiker Bioskop.xml
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Penjualan Tiker Bioskop\obj\x86\Debug\Aplikasi_Penjualan_Tiker_Bioskop.Form1.resources
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Penjualan Tiker Bioskop\obj\x86\Debug\Aplikasi_Penjualan_Tiker_Bioskop.Resources.resources
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Penjualan Tiker Bioskop\obj\x86\Debug\Aplikasi Penjualan Tiker Bioskop.vbproj.GenerateResource.Cache
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Penjualan Tiker Bioskop\obj\x86\Debug\Aplikasi Penjualan Tiker Bioskop.exe
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Penjualan Tiker Bioskop\obj\x86\Debug\Aplikasi Penjualan Tiker Bioskop.xml
+C:\Users\Jason Becker\AppData\Local\Temporary Projects\Aplikasi Penjualan Tiker Bioskop\obj\x86\Debug\Aplikasi Penjualan Tiker Bioskop.pdb
+E:\Tugas Visual Basic\Aplikasi Kasir Bioskop\Aplikasi Penjualan Tiker Bioskop\Aplikasi Penjualan Tiker Bioskop\obj\x86\Debug\Aplikasi Penjualan Tiker Bioskop.exe
+E:\Tugas Visual Basic\Aplikasi Kasir Bioskop\Aplikasi Penjualan Tiker Bioskop\Aplikasi Penjualan Tiker Bioskop\obj\x86\Debug\Aplikasi Penjualan Tiker Bioskop.xml
+E:\Tugas Visual Basic\Aplikasi Kasir Bioskop\Aplikasi Penjualan Tiker Bioskop\Aplikasi Penjualan Tiker Bioskop\obj\x86\Debug\Aplikasi Penjualan Tiker Bioskop.pdb
+E:\Tugas Visual Basic\Aplikasi Kasir Bioskop\Aplikasi Penjualan Tiker Bioskop\Aplikasi Penjualan Tiker Bioskop\bin\Debug\Aplikasi Penjualan Tiker Bioskop.exe
+E:\Tugas Visual Basic\Aplikasi Kasir Bioskop\Aplikasi Penjualan Tiker Bioskop\Aplikasi Penjualan Tiker Bioskop\bin\Debug\Aplikasi Penjualan Tiker Bioskop.pdb
+E:\Tugas Visual Basic\Aplikasi Kasir Bioskop\Aplikasi Penjualan Tiker Bioskop\Aplikasi Penjualan Tiker Bioskop\bin\Debug\Aplikasi Penjualan Tiker Bioskop.xml
+E:\Tugas Visual Basic\Aplikasi Kasir Bioskop\Aplikasi Penjualan Tiker Bioskop\Aplikasi Penjualan Tiker Bioskop\obj\x86\Debug\Aplikasi_Penjualan_Tiker_Bioskop.Form1.resources
+E:\Tugas Visual Basic\Aplikasi Kasir Bioskop\Aplikasi Penjualan Tiker Bioskop\Aplikasi Penjualan Tiker Bioskop\obj\x86\Debug\Aplikasi_Penjualan_Tiker_Bioskop.Resources.resources
+E:\Tugas Visual Basic\Aplikasi Kasir Bioskop\Aplikasi Penjualan Tiker Bioskop\Aplikasi Penjualan Tiker Bioskop\obj\x86\Debug\Aplikasi Penjualan Tiker Bioskop.vbproj.GenerateResource.Cache
+E:\Tugas Visual Basic\Aplikasi Kasir Bioskop\Aplikasi Penjualan Tiker Bioskop\Aplikasi Penjualan Tiker Bioskop\bin\Debug\PenjualanTiketBioskop.mdb
+E:\Tugas Visual Basic\Aplikasi Kasir Bioskop\Aplikasi Penjualan Tiker Bioskop\Aplikasi Penjualan Tiker Bioskop\bin\Debug\Aplikasi Penjualan Tiker Bioskop.exe.config

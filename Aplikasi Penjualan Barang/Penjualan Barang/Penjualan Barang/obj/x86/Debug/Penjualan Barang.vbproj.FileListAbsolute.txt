@@ -1,0 +1,11 @@
+E:\Tugas Visual Basic\Aplikasi Penjualan Barang\Penjualan Barang\Penjualan Barang\bin\Debug\PenjualanBarang.mdb
+E:\Tugas Visual Basic\Aplikasi Penjualan Barang\Penjualan Barang\Penjualan Barang\bin\Debug\Penjualan Barang.exe.config
+E:\Tugas Visual Basic\Aplikasi Penjualan Barang\Penjualan Barang\Penjualan Barang\bin\Debug\Penjualan Barang.exe
+E:\Tugas Visual Basic\Aplikasi Penjualan Barang\Penjualan Barang\Penjualan Barang\bin\Debug\Penjualan Barang.pdb
+E:\Tugas Visual Basic\Aplikasi Penjualan Barang\Penjualan Barang\Penjualan Barang\bin\Debug\Penjualan Barang.xml
+E:\Tugas Visual Basic\Aplikasi Penjualan Barang\Penjualan Barang\Penjualan Barang\obj\x86\Debug\Penjualan_Barang.Form1.resources
+E:\Tugas Visual Basic\Aplikasi Penjualan Barang\Penjualan Barang\Penjualan Barang\obj\x86\Debug\Penjualan_Barang.Resources.resources
+E:\Tugas Visual Basic\Aplikasi Penjualan Barang\Penjualan Barang\Penjualan Barang\obj\x86\Debug\Penjualan Barang.vbproj.GenerateResource.Cache
+E:\Tugas Visual Basic\Aplikasi Penjualan Barang\Penjualan Barang\Penjualan Barang\obj\x86\Debug\Penjualan Barang.exe
+E:\Tugas Visual Basic\Aplikasi Penjualan Barang\Penjualan Barang\Penjualan Barang\obj\x86\Debug\Penjualan Barang.xml
+E:\Tugas Visual Basic\Aplikasi Penjualan Barang\Penjualan Barang\Penjualan Barang\obj\x86\Debug\Penjualan Barang.pdb

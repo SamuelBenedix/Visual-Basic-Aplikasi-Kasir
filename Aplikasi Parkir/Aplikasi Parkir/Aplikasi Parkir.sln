@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Aplikasi Parkir", "Aplikasi Parkir\Aplikasi Parkir.vbproj", "{D22DAB33-2376-4BCE-AE39-BBFF3B8DC662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D22DAB33-2376-4BCE-AE39-BBFF3B8DC662}.Debug|x86.ActiveCfg = Debug|x86
+		{D22DAB33-2376-4BCE-AE39-BBFF3B8DC662}.Debug|x86.Build.0 = Debug|x86
+		{D22DAB33-2376-4BCE-AE39-BBFF3B8DC662}.Release|x86.ActiveCfg = Release|x86
+		{D22DAB33-2376-4BCE-AE39-BBFF3B8DC662}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
